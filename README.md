@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### I'm JamesHao from China 🇨🇳
+## 🎉 Welcome to my GitHub profile! 🚀
 <!--
 **JamesHa0/JamesHa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
