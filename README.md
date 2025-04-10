@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHa0&theme=rose&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"> <img src="https://metrics.lecoq.io/JamesHa0?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHa0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
