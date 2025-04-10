@@ -1,5 +1,5 @@
-## Hi there 👋
-### I'm JamesHao from China 🇨🇳
+## Hi there 👋 
+### I'm JamesHao from China 🇨🇳 
 ## 🎉 Welcome to my GitHub profile! 🚀
 <!--
 **JamesHa0/JamesHa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <div>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JamesHa0&theme=rose&hide=issues,contribs&show_icons=true" />
-  </div>
-  <div>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=JamesHa0&theme=rose&hide=issues,contribs&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHa0&layout=compact" />
-  </div>
 </div>
