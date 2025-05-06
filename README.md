@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />
+ 
 ### I'm JamesHao from China 🇨🇳 
 ## 🎉 Welcome to my GitHub profile! 🚀
 <!--
