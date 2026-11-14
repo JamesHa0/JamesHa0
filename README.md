@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=JamesHa0&theme=rose&hide=issues,contribs&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHa0&layout=compact" />
+    <img height="165px" src="https://github-stats-extended.vercel.app/api?username=JamesHa0&theme=rose&hide=issues,contribs&show_icons=true" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JamesHa0&layout=compact" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamesHa0/JamesHa0/output/github-contribution-grid-snake-dark.svg">
